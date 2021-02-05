@@ -5,4 +5,7 @@ package com.programacionclase;
  * El  05 de feb. de 2021.
  **/
 public class Angel {
+    public void nombreCol(){
+        System.out.println("Angel");
+    }
 }
